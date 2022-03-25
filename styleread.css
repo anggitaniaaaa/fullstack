@@ -1,0 +1,137 @@
+body{
+	background: #E6E6FA;
+}
+
+.gambar2{
+	margin: 0px 0px;
+	padding: 2px 2px;
+	margin-top: -30px;
+}
+
+.gambar3{
+	margin: 0px 0px;
+	padding: 4px 2px;
+	margin-top: -30px;
+}
+
+.so{
+	font-style: oblique;
+	box-shadow: 100px 10px 10px 1px #708090;
+}
+
+.so2{
+	font-style: oblique;
+	box-shadow: 100px 10px 10px 1px #708090;
+}
+
+.tanggal{
+	color: black;
+	font-size: 12pt;
+	width: 45%;
+	box-shadow: 20px 10px 20px 1px #708090;
+	padding: 0px 20px;
+	font-style: oblique;
+	margin: 10px 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.posisi{
+	color: black;
+	font-size: 12pt;
+	width: 50%;
+	box-shadow: 20px 10px 20px 1px #708090;
+	padding: 0px 20px;
+	font-style: oblique;
+	margin: 10px 10px;
+	text-align: center;
+}
+/*---------------------------------*/
+
+.tombol{
+	color: #DC143C;
+	width: 150px;
+	background: white;
+	margin: 10px 500px;
+	padding: 10px 20px;
+	box-shadow: 20px 10px 20px 1px #708090;
+	font-style: oblique;
+	text-decoration: none;
+}
+
+.inputbaru{
+	text-align: center;
+	text-transform: uppercase;
+    width: 350px;
+	background: white;
+	margin: 10px 10px;
+	padding: 10px 10px;
+	box-shadow: 0px 0px 80px 1px #d6d6d6;
+	border-radius: 100px;
+	font-style: oblique;
+}
+
+.inputbaru1{
+	text-align: center;
+	text-transform: uppercase;
+    width: 350px;
+	background: #5F9EA0;
+	margin: 10px 10px;
+	padding: 10px 10px;
+	box-shadow: 0px 0px 80px 1px #d6d6d6;
+	border-radius: 100px;
+	font-style: oblique;
+}
+
+.spasi{
+    padding: 10px 20px;
+}
+
+.edit{
+	background: #3CB371;
+	color: white;
+	font-size: 11pt;
+	width: 90%;
+	border: none;
+	border-radius: 10px;
+	padding: 2px 20px;
+	font-style: oblique;
+	font-weight: bold;
+	margin: 10px 12px;
+}
+
+.hapus{
+	background: #FF4500;
+	color: white;
+	font-size: 11pt;
+	width: 90%;
+	border: none;
+	border-radius: 10px;
+	padding: 2px 20px;
+	font-style: oblique;
+	font-weight: bold;
+	margin: 10px 12px;
+}
+
+.pesan{
+	width: 200px;
+	color: black;
+	margin: -35px 1000px;
+	padding: 5px 25px;
+	text-align: center;
+	border: 1px solid #b32929;
+	border-radius: 5px;
+	box-shadow: 0px 0px 80px 1px #708090;
+	font-weight: bold;
+}
+
+.link{
+	background: #F0F8FF;
+	color: red;
+	font-size: 12pt;
+	width: 20%;
+	padding: 5px 20px;
+	font-style: oblique;
+	margin: 0px 0px;
+	text-decoration: none;
+}
